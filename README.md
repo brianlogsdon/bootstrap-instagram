@@ -1,6 +1,6 @@
 # Bootstrap Instagram
 
-One Paragraph of project description goes here
+An instagram photo feed created with bootstrap. 
 
 ## Getting Started
 
